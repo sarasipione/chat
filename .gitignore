@@ -5,6 +5,7 @@ Podfile
 Podfile.lock
 Chat/GoogleService-Info.plist
 Chat/Assets.xcassets
+Chat/Base.lproj
 
 
 ## User settings
